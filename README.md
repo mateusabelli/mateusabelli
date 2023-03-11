@@ -1,5 +1,5 @@
 ### Hello, World! 👋
 
-My name is Mateus Abelli, and I'm a new open source developer based in Brazil. I'm passionate about creating cool and innovative solutions using the latest technologies, and I'm dedicated to make a positive impact with my projects and the open source community.
+I am a Full-Stack Open Source Developer with a passion for creating innovative solutions using the latest technologies, I'm dedicated to making a positive impact within the open source community through my projects.
 
-If you have any questions about my projects or just want to say hello, feel free to reach out! You can send me an E-mail or find me on Twitter, same handle as in GitHub.
+If you have any questions about my work or would simply like to say hello, please feel free to reach out to me via email. I will be sure to respond as soon as possible.
