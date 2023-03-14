@@ -1,5 +1,4 @@
 ### Hello, World! 👋
 
-I am a Full-Stack Open Source Developer with a passion for creating innovative solutions using the latest technologies, I'm dedicated to making a positive impact within the open source community through my projects.
+I'm a full-stack developer who is passionate about creating practical solutions and making a positive impact within the open-source community. I strive to learn something new every day to continuously improve my skills and knowledge. If you'd like to say hello or have any questions, feel free to reach out to me via email. I'd love to connect with you!
 
-If you have any questions about my work or would simply like to say hello, please feel free to reach out to me via email. I will be sure to respond as soon as possible.
