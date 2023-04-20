@@ -6,7 +6,7 @@ If you would like to get in touch with me, please feel free to reach out via **e
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=mateusabelli&count_private=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=mateusabelli&count_private=true&theme=github_dark_dimmed"
   media="(prefers-color-scheme: dark)"
 />
 <source
