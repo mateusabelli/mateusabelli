@@ -1,5 +1,5 @@
 <!-- icon from https://phosphoricons.com/ -->
-<img width="60" height="60" align="left" src=".github/github-logo-thin.svg" />
+<img width="60" height="55" align="left" src=".github/github-logo-thin.svg" />
 
 ## Hello there! 👋
 
