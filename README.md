@@ -16,7 +16,7 @@ I'm a **software developer** and **open-source enthusiast**. I enjoy exploring c
     srcset="https://github-readme-stats.vercel.app/api?username=mateusabelli&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" width="430" height="175" src="https://github-readme-stats.vercel.app/api?username=mateusabelli&count_private=true" />
+  <img align="left" width="400" height="175" src="https://github-readme-stats.vercel.app/api?username=mateusabelli&count_private=true" />
 </picture>
 
 <table align="left" width="100%">
