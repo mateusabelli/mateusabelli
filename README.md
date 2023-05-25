@@ -23,8 +23,8 @@ I'm a **software developer** and **open-source enthusiast**. I enjoy exploring c
   <th colspan="2">🏆 Recent Contributions</th>
   <tr>
     <!-- 21/05/2023-->
-    <td><b><a href="https://github.com/ekqt/screenshot/pull/60">#60</a></b></td>
-    <td><code>ekt/screenshot</code></td>
+    <td><b><a href="https://github.com/iamhectorsosa/screenshot/pull/60">#60</a></b></td>
+    <td><code>iamhectorsosa/screenshot</code></td>
   </tr>
   <tr>
     <!-- 20/03/2023-->
