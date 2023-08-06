@@ -1,11 +1,12 @@
 <!-- icon from https://phosphoricons.com/ -->
-<!-- <img width="60" height="55" align="left" src=".github/github-logo-thin.svg" /> -->
+<img width="60" height="55" align="right" src=".github/github-logo-thin.svg" />
 
 ## Hello there! 👋
 
-I'm a **web developer** and **open-source enthusiast**. I enjoy exploring creative ways to develop projects and to have fun while learning new things in the process. I like to work on ideas and build them to solutions that can **bring value**, and also make a **difference**.
+I'm a **software developer** and **open-source enthusiast**. 
 
-> **Note** If you would like to get in touch with me, please feel free to reach out via **email**.<br>I would be more than happy to reply to your message as soon as possible.
+I enjoy exploring creative ways to develop projects and to have fun while learning new things in the process. <br>
+I also like to work on ideas and build them into solutions that can **bring value**.
 
 <picture>
   <source
@@ -23,8 +24,8 @@ I'm a **web developer** and **open-source enthusiast**. I enjoy exploring creati
   <th colspan="2">🏆 Recent Contributions</th>
   <tr>
     <!-- 21/05/2023-->
-    <td><b><a href="https://github.com/iamhectorsosa/screenshot/pull/60">#60</a></b></td>
-    <td><code>iamhectorsosa/screenshot</code></td>
+    <td><b><a href="https://github.com/webscopeio/screenshot/pull/60">#60</a></b></td>
+    <td><code>webscopeio/screenshot</code></td>
   </tr>
   <tr>
     <!-- 20/03/2023-->
