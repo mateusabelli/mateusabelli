@@ -1,4 +1,4 @@
-<img width="80" height="115" align="left" src=".github/icons/person.svg" />
+<img width="80" height="100" align="left" src=".github/icons/person.svg" />
 
 <h2>Hello there 👋</h2>
 
@@ -26,7 +26,7 @@ Check out my portfolio website at
 </picture>
 
 <h3 align="left">
-  <img width="50" height="35" align="center" src=".github/icons/heart.svg" />
+  <img width="50" height="30" align="center" src=".github/icons/heart.svg" />
   Recent Contributions
 </h3>
 
@@ -76,22 +76,22 @@ Check out my portfolio website at
 </table>
 
 <h3 align="left">
-  <img width="50" height="35" align="center" src=".github/icons/trophy.svg" />
+  <img width="50" height="30" align="center" src=".github/icons/trophy.svg" />
   Hackathons and Events
 </h3>
 
 <a href="https://www.madewithsupabase.com/hackathons/launch-week-8">
-  <img width="80px" height="80px" src=".github/images/supabase-launch-week-8-hackathon.webp" />
+  <img width="64px" height="64px" src=".github/images/supabase-launch-week-8-hackathon.webp" />
 </a>
 <a href="https://dev.to/mateusabelli/prompteer-ai-prompts-engaging-comments-3h7o">
-  <img width="80px" height="80px" src=".github/images/refine-dev-hackathon.webp" />
+  <img width="64px" height="64px" src=".github/images/refine-dev-hackathon.webp" />
 </a>
 <a href="https://dev.to/mateusabelli/introducing-pull-request-tracker-a-github-action-3ijh">
-  <img width="80px" height="80px" src=".github/images/github-dev-hackathon.webp" />
+  <img width="64px" height="64px" src=".github/images/github-dev-hackathon.webp" />
 </a>
 <a href="https://dev.to/mateusabelli/omedev-talk-to-developers-mongodb-atlas-hackathon-2022-on-dev-3n9k">
-  <img width="80px" height="80px" src=".github/images/mongo-dev-hackathon.webp" />
+  <img width="64px" height="64px" src=".github/images/mongo-dev-hackathon.webp" />
 </a>
 <a href="https://hacktoberfest.com/">
-  <img width="80px" height="80px" src=".github/images/hacktoberfest-2022-badge.webp" />
+  <img width="64px" height="64px" src=".github/images/hacktoberfest-2022-badge.webp" />
 </a>
