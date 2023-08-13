@@ -1,16 +1,16 @@
-## Hello there 👋
+<img width="80" height="115" align="left" src=".github/icons/person.svg" />
 
-<img width="80" height="80" align="right" src=".github/icons/person.svg" />
+<h2>Hello there 👋</h2>
 
 I'm a **software developer** and **open-source enthusiast**.
 
-I enjoy exploring creative ways to develop projects and to have fun while learning new things in the process.
+I enjoy exploring creative ways to develop projects and to have fun while learning new things in the process.<br>
 I also like to work on ideas and build them into solutions that can **bring value**.
 
 Check out my portfolio website at
 <a href="https://mateus.zip">
 <img width="20" height="20" align="center" src=".github/icons/link.svg" />
-mateus.zip
+<strong>mateus.zip</strong>
 </a>
 
 <picture>
@@ -26,7 +26,7 @@ mateus.zip
 </picture>
 
 <h3 align="left">
-  <img width="40" height="60" align="center" src=".github/icons/heart.svg" />
+  <img width="50" height="35" align="center" src=".github/icons/heart.svg" />
   Recent Contributions
 </h3>
 
@@ -76,7 +76,7 @@ mateus.zip
 </table>
 
 <h3 align="left">
-  <img width="40" height="60" align="center" src=".github/icons/trophy.svg" />
+  <img width="50" height="35" align="center" src=".github/icons/trophy.svg" />
   Hackathons and Events
 </h3>
 
