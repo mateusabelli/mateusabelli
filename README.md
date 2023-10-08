@@ -10,9 +10,10 @@
     />
     <img width="400" height="40" src=".github/images/ambigram-dark.png" />
   </picture>
-
+  
   <br>
-
+  <br>
+  
   <code>Software Developer & Open-Source Enthusiast</code>
 </div>
 
@@ -20,7 +21,7 @@
 
 <p align="left">
   <img width="25" height="20" align="center" src=".github/icons/person.svg" />
-  <strong>Hello There.</strong>
+  <strong>Hello There</strong>
 </p>
 
 I'm Mateus, a developer based in Brazil :brazil:.
@@ -60,6 +61,7 @@ Thanks for stopping by to read about me.
   <img width="64px" height="64px" src=".github/images/hacktoberfest-2022-badge.webp" />
 </a>
 
+<br>
 <br>
 
 <blockquote>
