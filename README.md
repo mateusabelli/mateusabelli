@@ -14,21 +14,18 @@
   <br>
   <br>
   
-  <code>Software Developer & Open-Source Enthusiast</code>
 </div>
-
-<hr>
 
 <p align="left">
   <img width="25" height="20" align="center" src=".github/icons/person.svg" />
   <strong>Hello There</strong>
 </p>
 
-I'm Mateus, a developer based in Brazil :brazil:.
+I'm a software engineer and open-source enthusiast from Brazil :brazil:.
 
-I am **not** specialized in a particular language, tech stack, or framework. Instead, I like to keep an open mind to use whatever tool fits best certain problems, or projects.
+I enjoy exploring creative ways to develop projects and to have fun while learning new things in the process. I also like to work on ideas and build them into solutions that can bring value.
 
-To write code, it has to mean something, be helpful, teach me something, or at least be fun. Otherwise, I'm just a machine, much inferior to the other ones out there.
+To create high quality software, it has to mean something, be helpful, teach me something, or be fun.<br>Otherwise, I'm just a machine, much inferior to the other ones out there.
 
 Thanks for stopping by to read about me.
 
