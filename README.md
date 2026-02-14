@@ -1,14 +1,19 @@
-Hello, I am Mateus, an open-source enthusiast from Brazil.
+# Hello, I'm Mateus 👋
 
-I like to explore creative ways to implement solutions on different problems,
-even though I'm not very good at problem solving, I do enjoy the process of
-thinking, researching and coming up with a solution, no matter how small it is.
+![Profile View Counter](https://komarev.com/ghpvc/?username=mateusabelli) 
+![GitHub Sponsors](https://img.shields.io/github/sponsors/mateusabelli?color=green)
+![GitHub User's stars](https://img.shields.io/github/stars/mateusabelli?style=social&color=yellow)
 
-The programming language that I have the most familiarity is JavaScript, it is
-not perfect, but out of everything that I have tried, it is the one tool that
-I can get most things done.
+I'm the software engineer you're looking for, dear recruiter! 😅<br>
+_...or at very least, that great developer who enjoys open source and a bit of creativity._
 
-To develop good solutions, one should be having a good time. Otherwise that is
-a machine typing from its dataset. Rest is productive.
+### About me
 
-Thanks for reading!
+- 🛠️ Building .NET Distributed Systems focusing on Microservices/Serverless, Messaging, Testing and CI/CD
+- 🌱 Contributing to [Flamenco](https://flamenco.blender.org/) - Free & Open Source Render Management Software
+- 🚀 Enjoying crafting polished GUI tools with .NET + GTK/Adwaita and TUI with Spectre.Console
+- 📖 Fun fact: I don't give up easily while studying complex subjects.
+
+> If you're not enjoying the process, then you're just a machine typing from a dataset. Rest is productive.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateusabelli&theme=transparent&hide_border=true)](https://git.io/streak-stats)
