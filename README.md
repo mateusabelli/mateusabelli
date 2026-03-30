@@ -9,10 +9,10 @@ _...or at very least, that great developer who enjoys open source and a bit of c
 
 ### About me
 
-- 🛠️ Building .NET Distributed Systems focusing on Microservices/Serverless, Messaging, Testing and CI/CD
-- 🌱 Contributing to [Flamenco](https://flamenco.blender.org/) - Free & Open Source Render Management Software
-- 🚀 Enjoying crafting polished GUI tools with .NET + GTK/Adwaita and TUI with Spectre.Console
-- 📖 Fun fact: I don't give up easily while studying complex subjects.
+- 🛠️ Building Distributed Systems with .NET focusing on Microservices, Messaging, Testing and CI/CD
+- 🌱 Contributing to [Flamenco](https://flamenco.blender.org/) - Free & Open Source Render Farm
+- 🚀 Enjoying crafting polished GUI tools with GTK and TUI apps with Spectre.Console
+- 📖 Fun fact: I am quite persistent when studying complex subjects.
 
 > If you're not enjoying the process, then you're just a machine typing from a dataset. Rest is productive.
 
