@@ -1,5 +1,3 @@
-<img align="right" width="100" height="120" src="assets/duck-gif.webp" alt="Animated image of a duck walking" />
-
 # Hello, I'm Mateus 👋
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mateusabelli) 
