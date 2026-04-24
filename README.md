@@ -1,21 +1,17 @@
 <br>
-<br>
 
 <div align="center">
-  
-<img width="200" height="200" src="assets/unicorn.png" />
 
-<br>
+<a href="https://github.com/mateusabelli">
+  <img width="200" height="200" src="assets/unicorn.png" />
+<a/>
+
 <br>
 <br>
 
 **We're having a really nice day.**
 
-<br>
-
 The Unicorns have taken over. We're doing our best to get them under control and get back to GitHub.
-
-<br>
 
 [Contact Me][Contact] — [GitHub Stats][Stats] — [@mateusabelli][Username]
 
