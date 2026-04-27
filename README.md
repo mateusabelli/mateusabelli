@@ -1,10 +1,14 @@
+<div align="center">
+  <h1>Hi, I'm Mateus <sup><mark><code>ツ</code></mark></sup> <br><sup><sub><code><i>Software Engineer</i></code></sub></sup></h1>
+</div>
+
 <br>
 
 <div align="center">
 
 <a href="https://github.com/mateusabelli">
   <img width="200" height="200" src="assets/unicorn.png" />
-<a/>
+</a>
 
 <br>
 <br>
