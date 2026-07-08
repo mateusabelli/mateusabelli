@@ -42,12 +42,12 @@ To craft high quality software, I believe that it should to be meaningful, helpf
 
 ## 🌱 Latest Contributions
 
-- [Flamenco: Website Docs: Youtube shortcode not working #104495 ](https://projects.blender.org/studio/flamenco/issues/104495)
-- [Flamenco: Remove references of deprecated build target #104474](https://projects.blender.org/studio/flamenco/pulls/104474)
-- [Flamenco: Website: Write the Flamenco Upgrading Guide #104337](https://projects.blender.org/studio/flamenco/pulls/104337)
-- [Flamenco: Addon: add dynamic tooltip on submit button when no job type is selected #104326](https://projects.blender.org/studio/flamenco/pulls/104326)
-- [Flamenco: Website: Fix links in Documentation /development/database #104309](https://projects.blender.org/studio/flamenco/pulls/104309)
-- [Flamenco: Sync branch magefile with main #104308](https://projects.blender.org/studio/flamenco/pulls/104308)
+- [Website Docs: Youtube shortcode not working #104495 ](https://projects.blender.org/studio/flamenco/issues/104495)
+- [Remove references of deprecated build target #104474](https://projects.blender.org/studio/flamenco/pulls/104474)
+- [Website: Write the Flamenco Upgrading Guide #104337](https://projects.blender.org/studio/flamenco/pulls/104337)
+- [Addon: add dynamic tooltip on submit button when no job type is selected #104326](https://projects.blender.org/studio/flamenco/pulls/104326)
+- [Website: Fix links in Documentation /development/database #104309](https://projects.blender.org/studio/flamenco/pulls/104309)
+- [Sync branch magefile with main #104308](https://projects.blender.org/studio/flamenco/pulls/104308)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateusabelli&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
