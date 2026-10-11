@@ -1,0 +1,36 @@
+
+name: Sync Flamenco Fork
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: flamenco-upstream-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch Blender Projects upstream
+        run: |
+          git init repo
+          cd repo
+          git remote add upstream \
+            https://projects.blender.org/studio/flamenco.git
+          git fetch upstream main
+
+      - name: Mirror upstream to my fork
+        env:
+          FLAMENCO_SYNC_TOKEN: ${{ secrets.FLAMENCO_SYNC_TOKEN }}
+        run: |
+          cd repo
+          git push --force \
+            https://x-access-token:${FLAMENCO_SYNC_TOKEN}@github.com/mateusabelli/flamenco.git \
+            refs/remotes/upstream/main:refs/heads/main
